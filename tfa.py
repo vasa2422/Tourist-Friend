@@ -208,3 +208,4 @@ with st.container():
 st.markdown("<p style='text-align:center; color:white; font-weight:bold; margin-top:20px; text-shadow: 2px 2px 5px black;'>Travel Friend © 2026</p>", unsafe_allow_html=True)
 
 
+
