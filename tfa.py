@@ -8,7 +8,7 @@ from datetime import datetime
 # =========================================================
 # CONFIGURATION: YOUR API KEY
 # =========================================================
-API_KEY = "AIzaSyDxheXDkE5stJ_h8Bgp9FTYJJiK1Ad9G34" 
+API_KEY = "AIzaSyBWUO977EhDE_kD1bMLgWd9tWtwgPh_I1A" 
 # =========================================================
 
 # --- PAGE CONFIG ---
@@ -204,4 +204,5 @@ with st.container():
     st.markdown('</div>', unsafe_allow_html=True)
 
 # --- FOOTER ---
+
 st.markdown("<p style='text-align:center; color:white; font-weight:bold; margin-top:20px; text-shadow: 2px 2px 5px black;'>Travel Friend © 2026</p>", unsafe_allow_html=True)
