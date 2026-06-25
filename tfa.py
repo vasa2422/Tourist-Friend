@@ -8,7 +8,7 @@ from datetime import datetime
 # =========================================================
 # CONFIGURATION: YOUR API KEY
 # =========================================================
-API_KEY ="AIzaSyD1BYgaBrHzZUu3KR0B3WgR2_NZFxEdji4"
+API_KEY ="AQ.Ab8RN6IWt-elwOL7-G3fHp1LYUIOm2wMEmgvIacmWKhzuU7ZSw"
 # =========================================================
 
 # --- PAGE CONFIG ---
